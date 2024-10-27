@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
 </div>
