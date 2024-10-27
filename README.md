@@ -25,16 +25,20 @@ Here are some ideas to get you started:
 
 **🚀 Постоянное развитие** — мой ключевой принцип. GitHub для меня — не только место для хранения кода, но и платформа для обмена знаниями, поиска новых подходов и поддержки открытого ПО.
 
-</div>
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
+
+### 📫 Connect with me :
+<a href="https://www.linkedin.com/in/g-ulom-olloberganov-b37686311/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:gulomolloberganov26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </div>
