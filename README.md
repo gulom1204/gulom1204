@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 🚀 Постоянное развитие — мой ключевой принцип. GitHub для меня — не только место для хранения кода, но и платформа для обмена знаниями, поиска новых подходов и поддержки открытого ПО.
 
+
 ### :hammer_and_wrench: Languages and Tools :
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>
