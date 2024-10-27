@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-**:woman_technologist: About Me :**
+###:woman_technologist: About Me :
 
 👋 **Привет! Я — разработчик, увлечённый созданием производительного и надёжного кода.**
 
