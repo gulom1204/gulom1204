@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="600" height="300"/>
+</div>
