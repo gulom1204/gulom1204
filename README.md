@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
 
-### 📫 Connect with me :
+### 📫 MY CONTACTS :
 <a href="https://www.linkedin.com/in/g-ulom-olloberganov-b37686311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
