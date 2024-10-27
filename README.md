@@ -41,4 +41,10 @@ Here are some ideas to get you started:
 <a href="mailto:gulomolloberganov26@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+<a href="https://web.telegram.org/k/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F9C13C?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
 </div>
