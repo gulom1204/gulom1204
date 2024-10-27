@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 
 
-**### :fire: My Stats :**
+### :fire: My Stats :
 
 </div>
 
