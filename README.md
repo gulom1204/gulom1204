@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :woman_technologist: About Me :
 <div align="center">
+### :woman_technologist: About Me :
 
 👋 **Привет! Я — разработчик, увлечённый созданием производительного и надёжного кода.**
 
@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/u/iggymaclay/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F9C13C?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
 </a>
+### :fire: My Stats :
 </div>
 
-### :fire: My Stats :
