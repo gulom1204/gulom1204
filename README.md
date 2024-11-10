@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="30" height="30"/>
 
 ### 📫 MY CONTACTS :
 <a href="https://www.linkedin.com/in/g-ulom-olloberganov-b37686311/" target="_blank">
