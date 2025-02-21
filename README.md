@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 📫 MY CONTACTS :
 <a href="https://www.linkedin.com/in/g-ulom-olloberganov-b37686311/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:gulomolloberganov26@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
